@@ -53,17 +53,17 @@
 		{ "address" : "SYDNEY" } ,
 		{ "state" : "NSW" } ,
 		{ "postcode" : "2000" } ,
-		{ "country" : "AU" }
+		{ "country" : "AU" } ,
 		{ "contact" : "(02) 9250 7111" }
 	] ,
 	"amountType" : "CVL" ,
 	"amount" : 99.99 ,
-	"currency" : "USD" 
+	"currency" : "USD" ,
 	"transmissionDate" : "2014-10-31" ,
 	"transmissionTime" : "11:29" ,
 	"interchangeRefNumber" : 1 ,
 	"senderOriginalVersion" : 1 ,
 	"senderRef" : "SAC00000001/001" ,
 	"senderRefVersion" : 1 ,
-	"messageFunctionCode" : 9 ,
+	"messageFunctionCode" : 9
 }
