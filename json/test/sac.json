@@ -33,7 +33,7 @@
 	"consignmentRef" : "12345678901234567890123456789012345" ,
 	"transportMode" : "A" ,
 	"importerABN" : "99-123425789" ,
-	"importerCAC" " "123" ,
+	"importerCAC" : "123" ,
 	"importerId" : "12345678901" ,
 	"supplierId" : "12345678901" ,
 	"branchId" : "123456" ,
