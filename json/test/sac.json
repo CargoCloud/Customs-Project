@@ -42,9 +42,9 @@
 		{ "address" : [
 			"18 LOFTUS ROAD" ,
 			"YENNORA"
-			] ,
+			] } ,
 		{ "state" : "NSW" } ,
-		{ "postcode" : "2161 } ,
+		{ "postcode" : "2161" } ,
 		{ "country" : "AU" } ,
 		{ "contact" : "(02) 9250 7111" }
 	} ,
@@ -55,7 +55,7 @@
 			"LEVEL 7" ,
 			"6 O'CONNELL STREET" ,
 			"SYDNEY"
-			] ,
+			] } ,
 		{ "state" : "NSW" } ,
 		{ "postcode" : "2000" } ,
 		{ "country" : "AU" }
