@@ -37,25 +37,30 @@
 	"importerId" : "12345678901" ,
 	"supplierId" : "12345678901" ,
 	"branchId" : "123456" ,
-	"delivery" : [ 
-		{ "locality" : "SANDY BANK" } ,
-		{ "address" : "UNIT 1" } ,
-		{ "address" : "5 MULLBERRY ROAD" } ,
-		{ "address" : "NEAR PETROL STATION" } ,
-		{ "address" : "ASH COUNTY" } ,
+	"delivery" : { 
+		{ "locality" : "YENNORA DISTRIBUTION PARK" } ,
+		{ "address" : [
+			"18 LOFTUS ROAD" ,
+			"YENNORA"
+			] ,
 		{ "state" : "NSW" } ,
-		{ "postcode" : "2654" } ,
-		{ "country" : "AU" }
-	] ,
-	"importer" : [ 
-		{ "locality" : "OPERA HOUSE SYDNEY" } ,
-		{ "address" : "BENNELONG POINT" } ,
-		{ "address" : "SYDNEY" } ,
-		{ "state" : "NSW" } ,
-		{ "postcode" : "2000" } ,
+		{ "postcode" : "2161 } ,
 		{ "country" : "AU" } ,
 		{ "contact" : "(02) 9250 7111" }
-	] ,
+	} ,
+	"importer" : { 
+		{ "locality" : "KOFAX AUSTRALIA PTY LTD" } ,
+		{ "address" : [
+			"NORWICH HOUSE" ,
+			"LEVEL 7" ,
+			"6 O'CONNELL STREET" ,
+			"SYDNEY"
+			] ,
+		{ "state" : "NSW" } ,
+		{ "postcode" : "2000" } ,
+		{ "country" : "AU" }
+		{ "contact" : "(02) 8916 0200" }
+	} ,
 	"amountType" : "CVL" ,
 	"amount" : 99.99 ,
 	"currency" : "USD" ,
