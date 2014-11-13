@@ -38,28 +38,28 @@
 	"supplierId" : "12345678901" ,
 	"branchId" : "123456" ,
 	"delivery" : { 
-		{ "locality" : "YENNORA DISTRIBUTION PARK" } ,
-		{ "address" : [
+		"locality" : "YENNORA DISTRIBUTION PARK" ,
+		"address" : [
 			"18 LOFTUS ROAD" ,
 			"YENNORA"
-			] } ,
-		{ "state" : "NSW" } ,
-		{ "postcode" : "2161" } ,
-		{ "country" : "AU" } ,
-		{ "contact" : "(02) 9250 7111" }
+			] ,
+		"state" : "NSW" ,
+		"postcode" : "2161" ,
+		"country" : "AU" ,
+		"contact" : "(02) 9250 7111"
 	} ,
 	"importer" : { 
-		{ "locality" : "KOFAX AUSTRALIA PTY LTD" } ,
-		{ "address" : [
+		"locality" : "KOFAX AUSTRALIA PTY LTD" ,
+		"address" : [
 			"NORWICH HOUSE" ,
 			"LEVEL 7" ,
 			"6 O'CONNELL STREET" ,
 			"SYDNEY"
-			] } ,
-		{ "state" : "NSW" } ,
-		{ "postcode" : "2000" } ,
-		{ "country" : "AU" }
-		{ "contact" : "(02) 8916 0200" }
+			] ,
+		"state" : "NSW" ,
+		"postcode" : "2000" ,
+		"country" : "AU" ,
+		"contact" : "(02) 8916 0200"
 	} ,
 	"amountType" : "CVL" ,
 	"amount" : 99.99 ,
