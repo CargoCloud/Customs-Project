@@ -24,7 +24,6 @@
 	"referralReasonDescription" : "product unavailable on local market" ,
 	"containerNumber" : "FAKE1234" ,
 	"importerRef" : "IMPREF" ,
-	"sacId" : "ABC12345Z" ,
 	"brokerRef" : "BROKER REF 1" ,
 	"lodgementId" : 1 ,
 	"bankAccountOwner" : "B" ,
@@ -64,11 +63,29 @@
 	"amountType" : "CVL" ,
 	"amount" : 99.99 ,
 	"currency" : "USD" ,
+	"lines" : {
+		"number" : 1 ,
+		"actionCode" : "I" ,
+		"goodsDescription" : "TEST GOODS" ,
+		"quantityUnit" : "KG" ,
+		"quantity" : 72.53442 ,
+		"amounts" : [ 
+			{
+				"type" : "CVL" ,
+				"value" : 99:99 ,
+				"currency" : "USD"
+			}
+		] ,
+		"tariffClassification" : "145241341" ,
+		"stattisticalCode" : "02"
+		}
+	}
 	"transmissionDate" : "2014-10-31" ,
 	"transmissionTime" : "11:29" ,
 	"interchangeRefNumber" : 1 ,
 	"senderOriginalVersion" : 1 ,
 	"senderRef" : "SAC00000001/001" ,
 	"senderRefVersion" : 1 ,
-	"messageFunctionCode" : 9
+	"messageFunctionCode" : 9 ,
+	"sacId" : "ABC12345Z"
 }
